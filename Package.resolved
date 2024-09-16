@@ -1,0 +1,42 @@
+{
+  "originHash" : "373be9a899e3454fdecce0d94c7ea519f04f8fc3d9f9fdd6be94d636d848d325",
+  "pins" : [
+    {
+      "identity" : "pathkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kylef/PathKit.git",
+      "state" : {
+        "revision" : "3bfd2737b700b9a36565a8c94f4ad2b050a5e574",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "spectre",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kylef/Spectre.git",
+      "state" : {
+        "revision" : "26cc5e9ae0947092c7139ef7ba612e34646086c7",
+        "version" : "0.10.1"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "41982a3656a71c768319979febd796c6fd111d5c",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "swift-image",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/koher/swift-image",
+      "state" : {
+        "revision" : "36c8a282c6cc75d8f3a6f25057f093f950dced83",
+        "version" : "0.8.0"
+      }
+    }
+  ],
+  "version" : 3
+}
